@@ -1,7 +1,4 @@
-# TeamFlow 어플리케이션 
-
-<br><br>
-<img width="1024" alt="그래픽 이미지(중앙 정렬)@2x" src="~~~추가예정" />
+# TeamFlow 
 
 ## 📣 기능
 
