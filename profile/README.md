@@ -46,13 +46,21 @@
     </td>
      <td align="center">
       <strong>아미나</strong><br>
-<a href="https://github.com/aminaakh1680">@aminaakh1680</a>
+<a href="https://github.com/lychee-55">@aminaakh1680</a>
      <p>Frontend</p>
     </td>
   </tr>
 </table>
 
 ## 🙋‍♂️ 역할
+
+| 이름   | 역할         | 
+| ------ | ------------ |
+| 규빈 | 팀장, 백엔드 | 
+| 연준 | 백엔드       | 
+| 수진 | 백엔드       |
+| 지원 | 프론트엔드   |
+| 아미나 | 프론트엔드   | 
 
 ## 🖥 ERD
 ![Image](https://github.com/user-attachments/assets/e5a61e1d-311c-4cdb-87f2-de1ea95089ee)
