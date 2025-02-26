@@ -23,7 +23,7 @@
 - JavaScript, Node.js, WebSocket, OAuth, nodemailer, MySQL
 ### 3. **배포 및 협업**
 - AWS(ec2, rds), GitHub, Swagger, Notion
-- 
+
 ## 🤗 팀원 소개
 <table>
   <tr>
