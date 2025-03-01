@@ -1,4 +1,4 @@
-# TeamFlow 
+# TeamFlow <img src="https://github.com/user-attachments/assets/984e3889-3fa7-4d3c-97a8-7138705112ad" width="30" height="30" />
 
 ## 📣 기능
 
@@ -8,7 +8,7 @@
 
 - **워크스페이스 생성, 공유 가능한 Todo 기능**
 
-- **실시간 채팅, 실시간 입장 현황 관리**
+- **실시간 채팅 (이모티콘, 텍스트, 파일, 코드블럭)**
 
 
 #### 🛠 개발 기간 : 2025.02.10~2025.02.28
@@ -20,6 +20,8 @@
 - JavaScript, Node.js, WebSocket, OAuth, nodemailer, MySQL
 ### 3. **배포 및 협업**
 - AWS(ec2, rds), GitHub, Swagger, Notion
+
+<img src="https://github.com/user-attachments/assets/7d75d857-ef97-4cb2-b543-2b18a77d0794" width="350"/>
 
 ## 🤗 팀원 소개
 <table>
@@ -52,18 +54,8 @@
   </tr>
 </table>
 
-## 🙋‍♂️ 역할
-
-| 이름   | 역할         | 
-| ------ | ------------ |
-| 규빈 |  | 
-| 연준 |        | 
-| 수진 |        |
-| 지원 |    |
-| 아미나 |    | 
-
 ## 🖥 ERD
-![Image](https://github.com/user-attachments/assets/e5a61e1d-311c-4cdb-87f2-de1ea95089ee)
+![Image](https://github.com/user-attachments/assets/ac20ab0b-b12b-4873-9886-cf4ccf825f30)
 
 ## 배포 링크
 
